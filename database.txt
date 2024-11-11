@@ -1,0 +1,11 @@
+teams = [
+Team('Пролитый чай', ['munaat#3923', 'Dain_PLay#4851', 'CyM4aTblu#2459', 'prawnbeer#9996'], ['DainPLayST', 'Cym4aTblй', 'エビビール', 'MμηαΔ₸'], '<@&540840938352672793>'),
+Team('Горепродукты', ['Nyalol#8527', 'kotleta🕯#5626', 'Violet Koala#7569', 'Astro#8554'], ['nyaroru', 'kotleta65', 'vKoala', 'Astro!˜'], '<@&1029310360706109450>'),
+Team('КальмарВКляре', ['dogi_squid#7231', 'CHUCKCHA#8273', 'bambooz#1770', 'InklingBoy#8866', 'iwoomy#0400'], ['dogi', 'inkling boy', 'bambooz', 'iwoomy'], '<@&1029308954020417560>'),
+Team('Blood Punch', ['Clovetzzz#8688', 'Moty#7771', 'Just a Cat#3939', 'Арти#0388', 'Artem_Woomy#2636'], ['Crash', 'モチ☆', 'Just a Cat', 'Arty'], '<@&1029310137330057238>'),
+Team('Оскал', ['kav3ri#9781', 'beeg#3618', 'Natorinkurorin#5883', 'ToPz_SpAy#5518'], ['kav3ri', 'beeg', 'ナトリン', 'ToPz_SpAy'], '<@&1029369757952122890>'),
+Team('Ink Bonk', ['Corneyt_Cory#5608', 'Nikita.I#8300', 'Denirt#6567', 'Sveta#6586'], ['Corunieto', 'Nikita.l', 'b', 'SveSB'], '<@&1029865078226432001>'),
+Team('Splash Vault', ['Willver Corp#2600', 'Buddshand#9383', 'GooseMooz#0808', 'ravinggus#8110', 'TrueGek#2506'], ['Willver Corp', 'Budda', 'GooseMooz', 'Ravinggus'], '<@&1029865575134023790>'),
+Team('Банка с огурцами', ['Мурзя#1599', 'N3oN#0506', 'Hanroher#1789', 'M1lller#6608', 'Arrancadora#9422', 'SvetaK-Pop#6421'], ['Lara Croft', 'N3owon', 'Hanroher', 'Miller'], '<@&823881403799437342>'),
+Team('Краб и другие', ['Crab_Moto#3597', 'ZaArs#0330', 'isheklein#2287', 'TpySlen#8335'], ['Crab_Moto', 'ZaArs', 'isheklein', 'Slen'], '<@Краб и другие>')
+]
